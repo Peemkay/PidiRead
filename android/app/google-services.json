@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726037551154",
+    "project_id": "pidiread",
+    "storage_bucket": "pidiread.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726037551154:android:19112daaa1b6899b51c42b",
+        "android_client_info": {
+          "package_name": "com.example.pidiread"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu65qZGPl74NAWLLD-mL2bxrp07fhsHp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726037551154:android:1a3775ff8371bb9751c42b",
+        "android_client_info": {
+          "package_name": "com.pidiread"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu65qZGPl74NAWLLD-mL2bxrp07fhsHp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
